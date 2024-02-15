@@ -1,1 +1,18 @@
-ayam
+{
+    "Instant Death": {
+        "damage": 999999,
+        "hit": 1,
+        "type": "strength"
+    },
+    "Pasrah": {
+        "damage": 0
+    },
+    "Slash": {
+        "damage": 100,
+        "hit": 1,
+        "type": "strength"
+    },
+   "Full Counter": {
+        "damage": 0
+    }
+}
